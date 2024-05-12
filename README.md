@@ -10,13 +10,6 @@ This project is a Distributed Application (Dapp) built on the Ethereum blockchai
 - **Real-Time Voting Progress**: An intuitive user interface tracks voting progress in real time, providing visibility into the voting process.
 - **Automatic Result Tabulation**: The system automatically tabulates results when all votes are cast, ensuring fair and uncompromised election results.
 
-## Snapshots
-![Snapshot 1](img/Screenshot%20(2147).png)
-![Snapshot 2](img/Screenshot%20(2148).png)
-![Snapshot 3](img/Screenshot%20(2149).png)
-![Snapshot 4](img/Screenshot%20(2150).png)
-![Snapshot 5](img/Screenshot%20(2151).png)
-![Snapshot 6](img/Screenshot%20(2152).png)
 
 ## Future Plans
 - **Geographic Simulation**: Introduce a system that simulates actual countries, states, and constituencies to replicate the dynamics of real elections.
@@ -48,7 +41,13 @@ npm start
 2. Cast your vote for the desired candidate.
 3. Monitor voting progress and view election results in real time.
 
-
+## Snapshots
+![Snapshot 1](img/Screenshot%20(2147).png)
+![Snapshot 2](img/Screenshot%20(2148).png)
+![Snapshot 3](img/Screenshot%20(2149).png)
+![Snapshot 4](img/Screenshot%20(2150).png)
+![Snapshot 5](img/Screenshot%20(2151).png)
+![Snapshot 6](img/Screenshot%20(2152).png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

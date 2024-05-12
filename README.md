@@ -11,10 +11,12 @@ This project is a Distributed Application (Dapp) built on the Ethereum blockchai
 - **Automatic Result Tabulation**: The system automatically tabulates results when all votes are cast, ensuring fair and uncompromised election results.
 
 ## Snapshots
-![Snapshot 1](images/snapshot1.png)
-![Snapshot 2](images/snapshot2.png)
-![Snapshot 3](images/snapshot3.png)
-![Snapshot 4](images/snapshot4.png)
+![Snapshot 1](img/Screenshot(2147).png)
+![Snapshot 2](img/Screenshot(2148).png)
+![Snapshot 3](img/Screenshot(2149).png)
+![Snapshot 4](img/Screenshot(2150).png)
+![Snapshot 5](img/Screenshot(2151).png)
+![Snapshot 6](img/Screenshot(2152).png)
 
 ## Future Plans
 - **Geographic Simulation**: Introduce a system that simulates actual countries, states, and constituencies to replicate the dynamics of real elections.

@@ -26,13 +26,14 @@ This project is a Distributed Application (Dapp) built on the Ethereum blockchai
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/blockchain-voting-dapp.git
+git clone https://github.com/=AbhirajkarBajpai/E-Voting_Dapp.git
 2. Install dependencies:
-cd blockchain-voting-dapp
 npm install
-3. Start the development server:
+cd client
+npm install
+4. Start the development server:
 npm start
-4. Access the Dapp in your web browser at `http://localhost:3000`.
+5. Access the Dapp in your web browser at `http://localhost:3000`.
 
 ## Usage
 1. Connect your Ethereum wallet (e.g., MetaMask) to the Dapp.

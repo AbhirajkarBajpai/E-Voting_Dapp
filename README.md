@@ -10,6 +10,12 @@ This project is a Distributed Application (Dapp) built on the Ethereum blockchai
 - **Real-Time Voting Progress**: An intuitive user interface tracks voting progress in real time, providing visibility into the voting process.
 - **Automatic Result Tabulation**: The system automatically tabulates results when all votes are cast, ensuring fair and uncompromised election results.
 
+## Snapshots
+![Snapshot 1](images/snapshot1.png)
+![Snapshot 2](images/snapshot2.png)
+![Snapshot 3](images/snapshot3.png)
+![Snapshot 4](images/snapshot4.png)
+
 ## Future Plans
 - **Geographic Simulation**: Introduce a system that simulates actual countries, states, and constituencies to replicate the dynamics of real elections.
 - **Multi-Party Elections**: Allow parties to contest elections from various constituencies, enabling a diverse selection of candidates from different parties.
